@@ -1,0 +1,14 @@
+{
+    "name": "natours",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "Natours UX/UI",
+    "author": "Onwuzor Victor <onwuzorvictor@outlook.com>",
+    "license": "MIT",
+    "scripts": {
+        "compile": "node-sass sass/main.scss css/style.css -w"
+    },
+    "devDependencies": {
+        "node-sass": "4.13.0"
+    }
+}
